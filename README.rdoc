@@ -5,6 +5,8 @@
 * [Active Model Serializers](https://github.com/rails-api/active_model_serializers)
 * [Rspec-Rails](https://github.com/rspec/rspec-rails)
 * Rails 5 API-only mode
+* `rack-cors`
+* Versioning to protect against breaking changes
 
 # Upcoming:
 
