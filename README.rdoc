@@ -13,3 +13,5 @@
 
 * Api guide
 * Link to live Api
+
+- Note: still determining whether to have one api key per user or multiples. Maybe start with one api key then in future allow multiples for multiple apps.
